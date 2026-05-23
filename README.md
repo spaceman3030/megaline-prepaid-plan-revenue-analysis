@@ -1,4 +1,4 @@
-Project Title: Revenue Analysis of Telecom Prepaid Plans – Megaline Customer Behavior Analysis
+Revenue Analysis of Telecom Prepaid Plans – Megaline Customer Behavior Analysis
 
 Conducted a data analysis project focused on evaluating customer behavior and revenue generation across two prepaid telecom plans, Surf and Ultimate. Analyzed usage patterns from a sample of 500 telecom customers to determine which service plan generated higher revenue and provide data-driven insights to support marketing and advertising budget decisions.
 
